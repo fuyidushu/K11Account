@@ -1,0 +1,8 @@
+{
+"company":"k11",
+"cloud":"g",
+"account":[ 
+			{"email":"cg-zhong@qq.com","password":"12345678","name":"8001"},
+			{"email":"test@qq.com","password":"12345678","name":"8002"}
+	 	]
+}
